@@ -1,4 +1,4 @@
-module tg_kids_bot
+module github.com/Senyacka/Go_motivate_tg_bot
 
 go 1.21.5
 
